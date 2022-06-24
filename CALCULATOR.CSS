@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+*{
+    font-family:'poppins';
+    color:#555;
+    
+}
+
+body{
+    background-color: white;
+}
+
+.Container{
+    width: 320px;
+    margin: 120px auto;
+    background-color: rgb(234, 221, 221);
+}
+
+
+table{
+    width:100%;
+    border-color: rgb(238, 231, 231);
+}
+
+td{
+    width:25%;
+}
+
+button{
+    width:100%;
+    height: 50px;
+    font-size: 240x;
+    background-color: white;
+    border:none;
+}
+
+inputLabel {
+    height:400px;
+    font-size: 40px;
+    vertical-align: bottom;
+    text-align: right;
+    padding-right: 16px;
+    background-color: white;
+}
